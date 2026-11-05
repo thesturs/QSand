@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Powder: Next-Gen Volumetric Sandbox & Biochemical Reactor",
+  "description": "High-performance cellular automata falling-sand physics game with volumetric normal shading, multi-pass bloom, 3D Three.js containment chamber, live PubChem/ChEMBL bioscience reagent synthesis, custom reporting, and reagent basket curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
